@@ -1,0 +1,3 @@
+add_subdirectory(basic_example)
+add_subdirectory(gcm_example)
+add_subdirectory(benchmark)
